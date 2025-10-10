@@ -1,2 +1,3 @@
-# hi-github
-just a testing~
+# hello-github
+
+This is my first GitHub repository! I am learning how to use GitHub step by step.
